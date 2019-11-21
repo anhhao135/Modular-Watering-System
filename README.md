@@ -5,5 +5,5 @@ Contains Arduino code for the Modular Watering System created by Team 13 of UCSD
 
 Collaborators:
 
-Hao Le: hardware and low-level Arduino code
+Hao Le: hardware and low-level Arduino code \n
 Jane Yang: Blynk/Arduino code
